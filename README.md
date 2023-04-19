@@ -40,3 +40,19 @@ This is the List repository for all of the projects.
 | 30  | [Form Input Wave Animation](https://github.com/younusaliakash/form-input-wave-animation)                                     | [Repo Link](https://github.com/younusaliakash/form-input-wave-animation)                   |
 | 31  | [Sound board](https://github.com/younusaliakash/sound-board)                                     | [Repo Link](https://github.com/younusaliakash/sound-board)                   |
 | 32  | [Dad's Joke](https://github.com/younusaliakash/dad-jokes)                                     | [Repo Link](https://github.com/younusaliakash/dad-jokes)                   |
+| 33  | [Event Key Code](https://github.com/younusaliakash/event-keycodes)                                     | [Repo Link](https://github.com/younusaliakash/event-keycodes)                   |
+| 34  | [Faq Collapse](https://github.com/younusaliakash/faq-collapse)                                     | [Repo Link](https://github.com/younusaliakash/faq-collapse)                   |
+| 35  | [Random Tags Picker](https://github.com/younusaliakash/random-choice-picker)                                     | [Repo Link](https://github.com/younusaliakash/random-choice-picker)                   |
+| 36  | [Animated Navigation](https://github.com/younusaliakash/animated-navigation)                                     | [Repo Link](https://github.com/younusaliakash/animated-navigation)                   |
+| 37  | [Increment Counter](https://github.com/younusaliakash/incrementing-counter)                                     | [Repo Link](https://github.com/younusaliakash/incrementing-counter)                   |
+| 38  | [Drinking Water Measurement](https://github.com/younusaliakash/drink-water-measurement)                                     | [Repo Link](https://github.com/younusaliakash/drink-water-measurement)                   |
+| 39  | [Movie App](https://github.com/younusaliakash/movie-app)                                     | [Repo Link](https://github.com/younusaliakash/movie-app)                   |
+| 40  | [Background Slider](https://github.com/younusaliakash/background-slider)                                     | [Repo Link](https://github.com/younusaliakash/background-slider)                   |
+| 41  | [Theme Clock](https://github.com/younusaliakash/theme-clock)                                     | [Repo Link](https://github.com/younusaliakash/theme-clock)                   |
+| 42  | [Button Ripple](https://github.com/younusaliakash/button-ripple-effect)                                     | [Repo Link](https://github.com/younusaliakash/button-ripple-effect)                   |
+| 43  | [Drag and Drop](https://github.com/younusaliakash/drag-n-drop)                                     | [Repo Link](https://github.com/younusaliakash/drag-n-drop)                   |
+| 44  | [Drawing App](https://github.com/younusaliakash/drawing-app)                                     | [Repo Link](https://github.com/younusaliakash/drawing-app)                   |
+| 45  | [Kinetic Loader](https://github.com/younusaliakash/kinetic-loader)                                     | [Repo Link](https://github.com/younusaliakash/kinetic-loader)                   |
+| 46  | [Content Placeholder](https://github.com/younusaliakash/content-placeholder)                                     | [Repo Link](https://github.com/younusaliakash/content-placeholder)                   |
+| 47  | [Sticky Navigation](https://github.com/younusaliakash/sticky-navigation)                                     | [Repo Link](https://github.com/younusaliakash/sticky-navigation)                   |
+| 48  | [Double Vertical Slider](https://github.com/younusaliakash/double-vertical-slider)                                     | [Repo Link](https://github.com/younusaliakash/double-vertical-slider)                   |
